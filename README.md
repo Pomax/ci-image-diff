@@ -20,7 +20,7 @@ run: `./venv/bin/activate`, on windows run: `venv\Scripts\activate`.
 Then to install the dependencies:
 
 ```
-(venv) pip install -r requirements.txt
+(venv) python -m pip install -r requirements.txt
 ```
 
 
