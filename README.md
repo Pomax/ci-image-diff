@@ -121,7 +121,7 @@ Note that under no circumstances do you want to use JPG images here, because JPG
 
 ## Working on the code
 
-See https://github.com/MozillaFoundation/ci-image-diff/projects/1 for the MVP-triaged kanban and https://github.com/MozillaFoundation/ci-image-diff/issues for the full issue list
+See https://github.com/Pomax/ci-image-diff/issues for the full issue list
 
 
 ## Using ci-image-diff in Github Actions
