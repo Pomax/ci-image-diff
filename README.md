@@ -2,7 +2,7 @@
 
 A visual regression CI solution for web content, based on [opencv](https://opencv.org/) and [playwright](https://playwright.dev/)
 
-This project is still in progress, see https://github.com/MozillaFoundation/ci-image-diff/projects/1 for what's left before v1.0 is ready.
+(This project was never pursued further over on the original repo, and so to make sure I can keep working on it if I want to, I've forked it to my own account instead)
 
 ## getting set up
 
